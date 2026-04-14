@@ -1,5 +1,4 @@
-Aula 07/Aula 6
-    package exercicios;
+package exercicios;
 import java.util.Scanner;
 public class Exercicio1 {
 public static void main (String [] args) {
